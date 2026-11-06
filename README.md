@@ -75,7 +75,7 @@ Next: build a stronger foundation in PyTorch, then study retrieval and RAG. Thes
 
 - [Project setup and guide index](https://github.com/oghorpade060-eng/onkar-ghorpade/blob/main/docs/PROJECT_INDEX.md)
 - [26-week study plan with official references](https://github.com/oghorpade060-eng/onkar-ghorpade/blob/main/docs/STUDY_PLAN.md)
-- [Week 1: Python practice](https://github.com/oghorpade060-eng/onkar-ghorpade/blob/main/docs/WEEK_01.md)
+- [Week 1: Python practice](https://github.com/oghorpade060-eng/python-practice/blob/main/WEEK_01.md)
 - [BikeWise: concepts, request flow and viva](https://github.com/oghorpade060-eng/onkar-ghorpade/blob/main/docs/LEARNING_GUIDE.md)
 - [MessageLab: NLP, metrics and viva](https://github.com/oghorpade060-eng/onkar-ghorpade/blob/main/docs/MESSAGELAB_LESSON.md)
 - [YatriFlow: authentication, credentials and tokens](https://github.com/oghorpade060-eng/onkar-ghorpade/blob/main/docs/YATRIFLOW_AUTHENTICATION.md)
