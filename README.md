@@ -18,10 +18,10 @@ My current focus is practical: work with a dataset, choose a fair evaluation, ma
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/oghorpade060-eng/onkar-ghorpade/tree/main/projects/bikewise"><img src="assets/bikewise-card.svg" width="100%" alt="BikeWise: regression. Test MAE 46.99 bikes per hour."></a>
+  <a href="https://github.com/oghorpade060-eng/BikeWise"><img src="assets/bikewise-card.svg" width="100%" alt="BikeWise: regression. Test MAE 46.99 bikes per hour."></a>
   <p>Estimate hourly bike rentals from time and weather. Compare three models using a chronological split, then explore scenarios in a Flask dashboard.</p>
   <p><strong>Python · pandas · scikit-learn · Flask</strong></p>
-  <a href="https://github.com/oghorpade060-eng/onkar-ghorpade/tree/main/projects/bikewise">Code & setup</a> · <a href="https://github.com/oghorpade060-eng/onkar-ghorpade/blob/main/docs/LEARNING_GUIDE.md">Study & viva</a>
+  <a href="https://github.com/oghorpade060-eng/BikeWise">Code & setup</a> · <a href="https://github.com/oghorpade060-eng/onkar-ghorpade/blob/main/docs/LEARNING_GUIDE.md">Study & viva</a>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/oghorpade060-eng/onkar-ghorpade/tree/main/projects/messagelab"><img src="assets/messagelab-card.svg" width="100%" alt="MessageLab: NLP classification. Test spam F1 0.949."></a>
