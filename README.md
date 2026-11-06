@@ -22,7 +22,7 @@ I'm **Onkar Ghorpade**, a second-year **Artificial Intelligence & Data Science s
 
 My current focus is practical: work with a dataset, choose a fair evaluation, make the result usable, and explain where it can fail.
 
-**Looking for ML / data internships (2027).**
+**Building skills step by step: Python, SQL, machine learning, then deep learning and LLM applications.**
 
 ## Currently working on
 
