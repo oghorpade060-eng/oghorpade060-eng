@@ -26,9 +26,9 @@ My current focus is practical: work with a dataset, choose a fair evaluation, ma
 
 ## Currently working on
 
-- Python fundamentals, NumPy and pandas, with weekly exercises in [python-practice](https://github.com/oghorpade060-eng/python-practice)
-- Adding screenshots, baselines and confusion matrices to my projects
-- Next: PyTorch basics, then retrieval and RAG (learning goals, not completed work)
+- Phase 1 (Aug–Sep 2026): Python, SQL, statistics and classical ML, with weekly exercises in [python-practice](https://github.com/oghorpade060-eng/python-practice)
+- Next: PyTorch and transformers, then RAG and agents, then MLOps and deployment
+- These are my learning goals, not completed work
 
 ## Selected projects
 
